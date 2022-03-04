@@ -11,7 +11,7 @@ import "./styles.css";
 const shallPlayAudio = false;
 const scaleFactor = 0.1;
 const url =
-  "https://stream.mux.com/VvpofjgvMRxOmcvuicNE6JjaorY2XKTQej4Rs200nZ68.m3u8";
+  "https://b-hls-09.doppiocdn.com/hls/49109844_240p/49109844_240p.m3u8";
 
 const VideoCube = () => {
   // video stuff
@@ -116,8 +116,8 @@ const App = () => {
         }}
       >
         <img
-          alt="Powered by Mux Video"
-          src="https://mux.com/files/mux-video-logo-square.png"
+          alt="Powered by Steamy Streams"
+          src=""
           style={{ width: "120px" }}
         />
       </div>
